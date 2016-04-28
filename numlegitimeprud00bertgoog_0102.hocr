@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./numlegitimeprud00bertgoog_0102.png"; bbox 0 0 3725 6050; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 538 2779 1330 2843">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 538 2779 1330 2843">
+     <span class='ocr_line' id='line_1_1' title="bbox 538 2779 1330 2843; baseline 0.009 -17"><span class='ocrx_word' id='word_1_1' title='bbox 538 2793 849 2843; x_wconf 67' lang='lat' dir='ltr'>PAR1S1ls‚ExTY1³1S‚f.</span> <span class='ocrx_word' id='word_1_2' title='bbox 868 2779 945 2841; x_wconf 73' lang='grc' dir='ltr'>ιενὲ,</span> <span class='ocrx_word' id='word_1_3' title='bbox 965 2795 1010 2829; x_wconf 68' lang='lat' dir='ltr'>vu</span> <span class='ocrx_word' id='word_1_4' title='bbox 1028 2795 1114 2839; x_wconf 69' lang='lat' dir='ltr'>men,</span> <span class='ocrx_word' id='word_1_5' title='bbox 1133 2796 1273 2838; x_wconf 65' lang='lat' dir='ltr'>mmm,</span> <span class='ocrx_word' id='word_1_6' title='bbox 1291 2784 1330 2833; x_wconf 80' lang='grc' dir='ltr'>Π.</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 0 0 1868 6050">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 0 0 1868 6050">
+     <span class='ocr_line' id='line_1_2' title="bbox 0 0 1868 6050; baseline 0 0"><span class='ocrx_word' id='word_1_7' title='bbox 0 0 1868 6050; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
